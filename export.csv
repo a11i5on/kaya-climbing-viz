@@ -1,0 +1,780 @@
+date,stiffness,rating,ascent_type,grade,color,climb_name,gym,location,country,attempts
+Sun May 23 2021 14:15:39 GMT+0000 (GMT),0,,Flash,v1,Green,,,,,1
+Tue May 25 2021 14:14:54 GMT+0000 (GMT),0,,Redpoint,v0,Purple,,,,,
+Tue May 25 2021 14:17:42 GMT+0000 (GMT),0,,Flash,v1,White,,,,,1
+Wed Oct 06 2021 14:30:26 GMT+0000 (GMT),0,,Flash,v0,Black,,,,,1
+Wed Oct 06 2021 14:30:31 GMT+0000 (GMT),0,,Flash,v1,Pink,,,,,1
+Wed Oct 06 2021 14:30:40 GMT+0000 (GMT),0,,Flash,v2,,,,,,1
+Wed Oct 06 2021 14:30:49 GMT+0000 (GMT),0,,Flash,v1,Blue,,,,,1
+Wed Oct 06 2021 14:31:08 GMT+0000 (GMT),0,,Flash,v0,Blue,,,,,1
+Wed Oct 06 2021 14:31:18 GMT+0000 (GMT),0,,Flash,v1,,,,,,1
+Wed Oct 06 2021 14:32:07 GMT+0000 (GMT),0,,Redpoint,v3,Yellow,,,,,3
+Wed Oct 06 2021 14:35:58 GMT+0000 (GMT),0,,Redpoint,v4,Black,,,,,2
+Fri Oct 08 2021 01:06:36 GMT+0000 (GMT),0,,Flash,v3,Blue,,,,,1
+Fri Oct 08 2021 07:27:35 GMT+0000 (GMT),0,,Flash,v1,Orange,,,,,1
+Fri Oct 08 2021 07:27:40 GMT+0000 (GMT),0,,Flash,v2,Yellow,,,,,1
+Sun Oct 10 2021 07:41:38 GMT+0000 (GMT),0,,Flash,v3,Blue,,,,,1
+Sun Oct 10 2021 12:35:54 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,,,,2
+Sun Oct 10 2021 12:36:49 GMT+0000 (GMT),0,,Flash,v3,White,,,,,1
+Sun Oct 10 2021 12:37:59 GMT+0000 (GMT),0,,Flash,v3,Black,,,,,1
+Tue Oct 12 2021 00:44:22 GMT+0000 (GMT),0,,Flash,v2,Blue,,,,,1
+Tue Oct 12 2021 00:44:41 GMT+0000 (GMT),0,,Redpoint,v3,Orange,,,,,3
+Wed Oct 13 2021 02:05:29 GMT+0000 (GMT),0,,Flash,v3,Purple,,Touchstone Pacific Pipe,,,1
+Wed Oct 13 2021 02:06:16 GMT+0000 (GMT),0,,Flash,v3,White,,Touchstone Pacific Pipe,,,1
+Wed Oct 13 2021 16:07:52 GMT+0000 (GMT),0,,Repeat,v3,White,,Touchstone Pacific Pipe,,,1
+Wed Oct 13 2021 16:08:45 GMT+0000 (GMT),0,,Flash,v2,Blue,,,,,1
+Wed Oct 13 2021 20:36:09 GMT+0000 (GMT),0,,Flash,v2,Orange,,,,,1
+Wed Oct 13 2021 20:36:22 GMT+0000 (GMT),0,,Flash,v1,,,,,,1
+Fri Oct 15 2021 03:25:07 GMT+0000 (GMT),0,,Flash,v1,White,,,,,1
+Fri Oct 15 2021 03:25:12 GMT+0000 (GMT),0,,Flash,v1,White,,,,,1
+Fri Oct 15 2021 03:25:26 GMT+0000 (GMT),0,,Flash,v3,,,,,,1
+Fri Oct 15 2021 03:25:38 GMT+0000 (GMT),0,,Flash,v2,White,,,,,1
+Fri Oct 15 2021 03:25:43 GMT+0000 (GMT),0,,Flash,v1,Pink,,,,,1
+Fri Oct 15 2021 03:26:45 GMT+0000 (GMT),0,,Flash,v2,Orange,,,,,1
+Fri Oct 15 2021 03:42:14 GMT+0000 (GMT),0,,Flash,v2,White,,,,,1
+Fri Oct 15 2021 06:39:40 GMT+0000 (GMT),0,,Flash,v3,,,,,,1
+Wed Oct 27 2021 03:05:50 GMT+0000 (GMT),0,,Flash,v2,Purple,,,,,1
+Wed Oct 27 2021 03:06:06 GMT+0000 (GMT),0,,Flash,v3,Orange,,,,,1
+Wed Oct 27 2021 03:18:43 GMT+0000 (GMT),0,,Flash,v2,Black,,,,,1
+Wed Oct 27 2021 05:11:06 GMT+0000 (GMT),0,,Flash,v2,Blue,,,,,1
+Wed Oct 27 2021 05:11:37 GMT+0000 (GMT),0,4,Redpoint,v3,Blue,,,,,2
+Fri Oct 29 2021 01:36:45 GMT+0000 (GMT),0,,Flash,v1,Orange,,,,,1
+Fri Oct 29 2021 01:38:22 GMT+0000 (GMT),0,,Flash,v1,Blue,,,,,1
+Fri Oct 29 2021 01:42:42 GMT+0000 (GMT),0,,Flash,v2,Yellow,,,,,1
+Fri Oct 29 2021 01:59:32 GMT+0000 (GMT),0,,Flash,v2,Yellow,,,,,1
+Fri Oct 29 2021 02:21:02 GMT+0000 (GMT),0,,Repeat,v3,Orange,,,,,1
+Fri Oct 29 2021 02:38:55 GMT+0000 (GMT),0,,Flash,v3,White,,,,,1
+Fri Oct 29 2021 03:35:46 GMT+0000 (GMT),0,,Flash,v3,White,,,,,1
+Sun Oct 31 2021 22:45:06 GMT+0000 (GMT),0,,Flash,v2,Yellow,,,,,1
+Sun Oct 31 2021 22:45:25 GMT+0000 (GMT),0,,Redpoint,v1,Green,,,,,
+Sun Oct 31 2021 22:45:52 GMT+0000 (GMT),0,,Flash,v0,Tan,,,,,1
+Sun Oct 31 2021 22:50:53 GMT+0000 (GMT),0,,Flash,v3,Green,,,,,1
+Mon Nov 01 2021 00:08:42 GMT+0000 (GMT),0,,Flash,v1,Green,,,,,1
+Mon Nov 01 2021 00:13:24 GMT+0000 (GMT),0,,Flash,v2,Purple,,,,,1
+Mon Nov 01 2021 00:16:04 GMT+0000 (GMT),0,,Flash,v2,Green,,,,,1
+Mon Nov 01 2021 00:44:51 GMT+0000 (GMT),0,,Flash,v2,Black,,,,,1
+Mon Nov 01 2021 00:44:58 GMT+0000 (GMT),0,,Flash,v0,Orange,,,,,1
+Wed Nov 03 2021 01:21:26 GMT+0000 (GMT),0,,Flash,v1,Black,,,,,1
+Wed Nov 03 2021 01:43:21 GMT+0000 (GMT),0,,Redpoint,v2,Purple,,,,,2
+Wed Nov 03 2021 02:34:59 GMT+0000 (GMT),0,,Flash,v3,Pink,,,,,1
+Wed Nov 03 2021 02:50:46 GMT+0000 (GMT),0,,Flash,v2,Yellow,,,,,1
+Wed Nov 03 2021 03:34:23 GMT+0000 (GMT),0,,Flash,v1,Blue,,,,,1
+Wed Nov 03 2021 05:37:53 GMT+0000 (GMT),0,,Flash,v2,Orange,,,,,1
+Fri Nov 05 2021 01:56:53 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Santa Clara,,,1
+Fri Nov 05 2021 01:58:46 GMT+0000 (GMT),0,,Flash,v2,Orange,,Movement Santa Clara,,,1
+Fri Nov 05 2021 02:03:53 GMT+0000 (GMT),0,,Flash,v3,Purple,,Movement Santa Clara,,,1
+Fri Nov 05 2021 02:38:19 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Santa Clara,,,1
+Fri Nov 05 2021 03:33:30 GMT+0000 (GMT),0,,Redpoint,v3,Green,,Movement Santa Clara,,,5
+Fri Nov 05 2021 03:36:07 GMT+0000 (GMT),0,,Repeat,v2,Pink,,Movement Santa Clara,,,1
+Fri Nov 05 2021 03:53:17 GMT+0000 (GMT),0,,Repeat,v3,Purple,,Movement Santa Clara,,,1
+Fri Nov 05 2021 03:59:51 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Santa Clara,,,1
+Fri Nov 05 2021 04:24:31 GMT+0000 (GMT),0,,Flash,v1,White,,Movement Santa Clara,,,1
+Fri Nov 05 2021 04:35:27 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Movement Santa Clara,,,1
+Fri Nov 05 2021 04:38:09 GMT+0000 (GMT),0,,Flash,v1,Blue,,Movement Santa Clara,,,1
+Sun Nov 07 2021 21:03:50 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Pacific Pipe,,,1
+Sun Nov 07 2021 21:04:02 GMT+0000 (GMT),0,,Flash,v0,Purple,,Touchstone Pacific Pipe,,,1
+Sun Nov 07 2021 21:15:37 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Pacific Pipe,,,1
+Sun Nov 07 2021 23:06:13 GMT+0000 (GMT),0,,Flash,v2,Pink,,Touchstone Pacific Pipe,,,1
+Sun Nov 07 2021 23:09:51 GMT+0000 (GMT),0,,Flash,v2,Purple,,Touchstone Pacific Pipe,,,1
+Mon Nov 08 2021 06:44:14 GMT+0000 (GMT),0,4,Redpoint,v3,Green,,Touchstone Pacific Pipe,,,2
+Mon Nov 08 2021 06:46:11 GMT+0000 (GMT),0,,Onsight,v3,Purple,,Touchstone Pacific Pipe,,,1
+Wed Nov 10 2021 03:17:36 GMT+0000 (GMT),0,,Flash,v2,Black,,,,,1
+Wed Nov 10 2021 03:17:47 GMT+0000 (GMT),0,,Flash,v1,White,,,,,1
+Wed Nov 10 2021 03:26:36 GMT+0000 (GMT),0,,Flash,v3,Pink,,,,,1
+Wed Nov 10 2021 03:38:41 GMT+0000 (GMT),0,,Flash,v2,Yellow,,,,,1
+Wed Nov 10 2021 03:49:53 GMT+0000 (GMT),0,,Flash,v3,Pink,,,,,1
+Wed Nov 10 2021 04:27:36 GMT+0000 (GMT),0,,Flash,v2,White,,,,,1
+Wed Nov 10 2021 04:43:10 GMT+0000 (GMT),0,,Flash,v2,Black,,,,,1
+Wed Nov 10 2021 05:31:59 GMT+0000 (GMT),0,,Redpoint,v3,Yellow,,,,,2
+Wed Nov 10 2021 05:32:43 GMT+0000 (GMT),0,,Repeat,v3,Pink,,,,,1
+Thu Nov 11 2021 09:13:23 GMT+0000 (GMT),1,5,Redpoint,v1,,Poker Chips,,Kraft Boulders,United States,3
+Mon Nov 15 2021 15:22:50 GMT+0000 (GMT),0,,Flash,v2,,,,,,1
+Tue Nov 16 2021 15:20:30 GMT+0000 (GMT),0,,Flash,v1,Purple,,,,,1
+Tue Nov 16 2021 15:20:58 GMT+0000 (GMT),0,,Repeat,v2,Purple,,,,,1
+Tue Nov 16 2021 15:21:51 GMT+0000 (GMT),0,,Redpoint,v0,Purple,,,,,
+Tue Nov 16 2021 16:51:55 GMT+0000 (GMT),0,,Flash,v3,White,,,,,1
+Tue Nov 16 2021 16:57:07 GMT+0000 (GMT),0,,Repeat,v3,White,,,,,1
+Tue Nov 16 2021 17:00:48 GMT+0000 (GMT),0,,Flash,v2,Purple,,,,,1
+Tue Nov 16 2021 18:06:05 GMT+0000 (GMT),0,,Redpoint,v3,Yellow,,,,,4
+Tue Nov 16 2021 18:09:32 GMT+0000 (GMT),0,,Flash,v0,Orange,,,,,1
+Fri Nov 19 2021 01:20:02 GMT+0000 (GMT),0,,Flash,v1,Blue,,,,,1
+Fri Nov 19 2021 01:20:02 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Fri Nov 19 2021 01:20:02 GMT+0000 (GMT),0,,Redpoint,v1,,Taco Bell,,Kilter Board (Original),,
+Fri Nov 19 2021 01:20:02 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Fri Nov 19 2021 01:20:15 GMT+0000 (GMT),0,,Flash,v0,Pink,,,,,1
+Fri Nov 19 2021 01:21:34 GMT+0000 (GMT),0,,Flash,v1,Yellow,,,,,1
+Fri Nov 19 2021 03:53:59 GMT+0000 (GMT),0,,Redpoint,v2,White,,,,,
+Fri Nov 19 2021 03:57:36 GMT+0000 (GMT),0,,Repeat,v2,Orange,,,,,1
+Mon Nov 22 2021 21:07:40 GMT+0000 (GMT),0,,Flash,v0,Pink,,Touchstone Pacific Pipe,,,1
+Mon Nov 22 2021 21:07:54 GMT+0000 (GMT),0,,Flash,v1,Black,,Touchstone Pacific Pipe,,,1
+Mon Nov 22 2021 21:11:31 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Pacific Pipe,,,1
+Mon Nov 22 2021 23:23:43 GMT+0000 (GMT),0,,Repeat,v3,Green,,Touchstone Pacific Pipe,,,1
+Tue Nov 23 2021 00:14:19 GMT+0000 (GMT),0,,Flash,v2,Black,,Touchstone Pacific Pipe,,,1
+Thu Nov 25 2021 00:16:34 GMT+0000 (GMT),0,,Flash,v0,Orange,,,,,1
+Thu Nov 25 2021 00:16:44 GMT+0000 (GMT),0,,Redpoint,v1,Blue,,,,,
+Thu Nov 25 2021 00:23:26 GMT+0000 (GMT),0,,Flash,v2,Pink,,,,,1
+Thu Nov 25 2021 00:45:13 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,2
+Fri Nov 26 2021 18:11:03 GMT+0000 (GMT),0,,Flash,v0,Black,,,,,1
+Fri Nov 26 2021 18:11:15 GMT+0000 (GMT),0,,Repeat,v1,Yellow,,,,,1
+Fri Nov 26 2021 18:18:06 GMT+0000 (GMT),0,,Redpoint,v2,Purple,,,,,2
+Fri Nov 26 2021 18:37:42 GMT+0000 (GMT),0,,Redpoint,v3,Yellow,,,,,3
+Fri Nov 26 2021 19:03:46 GMT+0000 (GMT),0,,Flash,v2,,,,,,1
+Fri Nov 26 2021 19:18:48 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,,,,2
+Fri Nov 26 2021 19:55:21 GMT+0000 (GMT),0,,Redpoint,v3,Yellow,,,,,3
+Fri Nov 26 2021 20:39:27 GMT+0000 (GMT),0,,Onsight,v2,Black,,,,,1
+Fri Nov 26 2021 20:45:05 GMT+0000 (GMT),0,,Flash,v2,White,,,,,1
+Fri Nov 26 2021 20:50:44 GMT+0000 (GMT),0,,Onsight,v1,,,,,,1
+Fri Nov 26 2021 21:04:39 GMT+0000 (GMT),0,,Flash,v2,White,,,,,1
+Sun Nov 28 2021 22:13:03 GMT+0000 (GMT),0,,Flash,v0,Black,,Touchstone Pacific Pipe,,,1
+Sun Nov 28 2021 22:13:19 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Pacific Pipe,,,1
+Sun Nov 28 2021 22:17:09 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Pacific Pipe,,,1
+Sun Nov 28 2021 23:19:14 GMT+0000 (GMT),0,,Redpoint,v3,Black,,Touchstone Pacific Pipe,,,5
+Sun Nov 28 2021 23:23:48 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Pacific Pipe,,,1
+Mon Nov 29 2021 00:36:21 GMT+0000 (GMT),0,,Onsight,v2,Blue,,Touchstone Pacific Pipe,,,1
+Mon Nov 29 2021 00:50:47 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Pacific Pipe,,,1
+Mon Nov 29 2021 09:11:59 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Touchstone Pacific Pipe,,,8
+Wed Dec 01 2021 02:10:51 GMT+0000 (GMT),0,,Flash,v0,Purple,,,,,1
+Wed Dec 01 2021 02:11:13 GMT+0000 (GMT),0,,Redpoint,v2,Orange,,,,,
+Wed Dec 01 2021 02:24:44 GMT+0000 (GMT),0,,Flash,v3,Black,,,,,1
+Wed Dec 01 2021 03:02:09 GMT+0000 (GMT),0,,Repeat,v3,White,,,,,
+Wed Dec 01 2021 03:13:51 GMT+0000 (GMT),0,,Onsight,v2,Yellow,,,,,1
+Wed Dec 01 2021 03:25:57 GMT+0000 (GMT),0,,Flash,v3,White,,,,,1
+Wed Dec 01 2021 03:47:56 GMT+0000 (GMT),0,,Flash,v3,,,,,,1
+Thu Dec 02 2021 15:25:49 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Pacific Pipe,,,1
+Thu Dec 02 2021 15:26:05 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Pacific Pipe,,,1
+Thu Dec 02 2021 15:32:06 GMT+0000 (GMT),0,,Redpoint,v2,Pink,,Touchstone Pacific Pipe,,,3
+Thu Dec 02 2021 16:12:32 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Pacific Pipe,,,1
+Thu Dec 02 2021 16:48:01 GMT+0000 (GMT),0,,Onsight,v1,Purple,,Touchstone Pacific Pipe,,,1
+Thu Dec 02 2021 17:03:24 GMT+0000 (GMT),0,,Redpoint,v3,Black,,Touchstone Pacific Pipe,,,2
+Thu Dec 02 2021 17:18:51 GMT+0000 (GMT),0,,Repeat,v3,Black,,Touchstone Pacific Pipe,,,1
+Sat Dec 04 2021 00:48:10 GMT+0000 (GMT),0,,Flash,v1,Purple,,,,,1
+Sat Dec 04 2021 00:48:21 GMT+0000 (GMT),0,,Flash,v1,Orange,,,,,1
+Sat Dec 04 2021 00:53:35 GMT+0000 (GMT),0,,Flash,v3,Blue,,,,,1
+Sat Dec 04 2021 01:00:27 GMT+0000 (GMT),0,,Repeat,v2,Black,,,,,1
+Sat Dec 04 2021 01:05:13 GMT+0000 (GMT),0,,Repeat,v3,White,,,,,1
+Sat Dec 04 2021 01:45:02 GMT+0000 (GMT),0,,Repeat,v3,Pink,,,,,1
+Sat Dec 04 2021 01:57:12 GMT+0000 (GMT),0,,Repeat,v3,Yellow,,,,,1
+Sat Dec 04 2021 02:38:00 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,,,,2
+Wed Dec 08 2021 01:00:27 GMT+0000 (GMT),0,,Onsight,v0,Black,,,,,1
+Wed Dec 08 2021 01:02:37 GMT+0000 (GMT),0,,Flash,v1,Black,,,,,1
+Wed Dec 08 2021 01:07:40 GMT+0000 (GMT),0,,Onsight,v2,White,,,,,1
+Wed Dec 08 2021 01:16:03 GMT+0000 (GMT),0,,Redpoint,v4,Orange,,,,,5
+Wed Dec 08 2021 01:36:33 GMT+0000 (GMT),0,,Repeat,v3,Pink,,,,,1
+Wed Dec 08 2021 02:13:58 GMT+0000 (GMT),0,,Repeat,v3,,,,,,
+Wed Dec 08 2021 02:19:09 GMT+0000 (GMT),0,,Repeat,v3,,,,,,
+Wed Dec 08 2021 02:55:33 GMT+0000 (GMT),0,,Onsight,v1,Black,,,,,1
+Wed Dec 08 2021 03:11:07 GMT+0000 (GMT),0,,Repeat,v3,Pink,,,,,1
+Thu Dec 09 2021 15:22:46 GMT+0000 (GMT),0,,Onsight,v0,Black,,Touchstone Pacific Pipe,,,1
+Thu Dec 09 2021 15:25:25 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Pacific Pipe,,,1
+Thu Dec 09 2021 15:33:35 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Pacific Pipe,,,1
+Thu Dec 09 2021 15:48:50 GMT+0000 (GMT),0,,Redpoint,v3,Blue,,Touchstone Pacific Pipe,,,2
+Thu Dec 09 2021 16:46:42 GMT+0000 (GMT),0,,Redpoint,v4,Pink,,Touchstone Pacific Pipe,,,2
+Thu Dec 09 2021 17:29:39 GMT+0000 (GMT),0,,Repeat,v2,White,,Touchstone Pacific Pipe,,,1
+Thu Dec 09 2021 17:58:19 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Pacific Pipe,,,1
+Tue Dec 14 2021 03:18:40 GMT+0000 (GMT),0,,Flash,v0,Black,,Movement Santa Clara,,,1
+Tue Dec 14 2021 03:24:50 GMT+0000 (GMT),0,,Repeat,v0,Black,,Movement Santa Clara,,,1
+Tue Dec 14 2021 03:25:03 GMT+0000 (GMT),0,,Flash,v2,Blue,,Movement Santa Clara,,,1
+Tue Dec 14 2021 03:30:11 GMT+0000 (GMT),0,,Onsight,v1,Blue,,Movement Santa Clara,,,1
+Tue Dec 14 2021 03:47:10 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Movement Santa Clara,,,2
+Tue Dec 14 2021 04:27:30 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Movement Santa Clara,,,1
+Tue Dec 14 2021 05:00:51 GMT+0000 (GMT),0,,Flash,v2,Blue,,Movement Santa Clara,,,1
+Tue Dec 14 2021 05:09:18 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Santa Clara,,,1
+Tue Dec 14 2021 05:27:10 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Santa Clara,,,1
+Tue Dec 14 2021 05:59:09 GMT+0000 (GMT),0,,Flash,v2,Black,,Movement Santa Clara,,,1
+Fri Dec 17 2021 01:31:45 GMT+0000 (GMT),0,,Flash,v0,White,,,,,1
+Fri Dec 17 2021 01:33:27 GMT+0000 (GMT),0,,Repeat,v0,Black,,,,,1
+Fri Dec 17 2021 01:35:27 GMT+0000 (GMT),0,,Repeat,v0,Purple,,,,,1
+Fri Dec 17 2021 01:36:56 GMT+0000 (GMT),0,,Repeat,v1,Black,,,,,1
+Fri Dec 17 2021 01:38:57 GMT+0000 (GMT),0,,Repeat,v1,Orange,,,,,1
+Fri Dec 17 2021 01:40:42 GMT+0000 (GMT),0,,Repeat,v1,Purple,,,,,1
+Fri Dec 17 2021 01:46:42 GMT+0000 (GMT),0,,Repeat,v2,White,,,,,1
+Fri Dec 17 2021 01:50:26 GMT+0000 (GMT),0,,Flash,v2,,,,,,1
+Fri Dec 17 2021 02:40:58 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,2
+Fri Dec 17 2021 03:08:21 GMT+0000 (GMT),0,,Flash,v3,Black,,,,,1
+Fri Dec 17 2021 03:20:52 GMT+0000 (GMT),0,,Flash,v2,Pink,,,,,1
+Sat Dec 18 2021 04:00:48 GMT+0000 (GMT),0,,Flash,v0,Pink,,Touchstone Pacific Pipe,,,1
+Sat Dec 18 2021 04:02:54 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Pacific Pipe,,,1
+Sat Dec 18 2021 04:10:03 GMT+0000 (GMT),0,,Repeat,v3,White,,Touchstone Pacific Pipe,,,1
+Sat Dec 18 2021 05:07:59 GMT+0000 (GMT),0,,Flash,v2,Blue,,Touchstone Pacific Pipe,,,1
+Sat Dec 18 2021 05:31:58 GMT+0000 (GMT),0,,Repeat,v2,Yellow,,Touchstone Pacific Pipe,,,1
+Sat Dec 18 2021 05:42:15 GMT+0000 (GMT),0,,Flash,v1,Pink,,Touchstone Pacific Pipe,,,1
+Tue Dec 21 2021 03:27:33 GMT+0000 (GMT),0,,Flash,v1,Blue,,,,,1
+Tue Dec 21 2021 03:27:33 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Tue Dec 21 2021 03:27:33 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Tue Dec 21 2021 03:27:33 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Tue Dec 21 2021 03:27:33 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Tue Dec 21 2021 04:50:34 GMT+0000 (GMT),0,,Redpoint,v1,White,,,,,
+Tue Dec 21 2021 05:07:17 GMT+0000 (GMT),0,,Flash,v2,Pink,,,,,1
+Tue Dec 21 2021 05:12:42 GMT+0000 (GMT),0,,Redpoint,v1,Orange,,,,,
+Fri Dec 24 2021 02:20:59 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Fri Dec 24 2021 02:20:59 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Fri Dec 24 2021 02:20:59 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Fri Dec 24 2021 02:21:07 GMT+0000 (GMT),0,,Flash,v0,Black,,Movement Belmont,,,1
+Fri Dec 24 2021 02:22:43 GMT+0000 (GMT),0,,Flash,v1,White,,Movement Belmont,,,1
+Fri Dec 24 2021 03:17:52 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Movement Belmont,,,
+Fri Dec 24 2021 04:24:51 GMT+0000 (GMT),0,,Flash,v2,White,,Movement Belmont,,,1
+Fri Dec 24 2021 04:24:55 GMT+0000 (GMT),0,,Flash,v4,Pink,,Movement Belmont,,,1
+Fri Dec 24 2021 04:29:52 GMT+0000 (GMT),0,,Flash,v2,White,,Movement Belmont,,,1
+Fri Dec 24 2021 08:25:29 GMT+0000 (GMT),0,,Redpoint,v3,Green,,,,,2
+Sun Dec 26 2021 18:06:44 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Pacific Pipe,,,1
+Sun Dec 26 2021 18:08:57 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Pacific Pipe,,,1
+Sun Dec 26 2021 18:12:40 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Pacific Pipe,,,1
+Sun Dec 26 2021 18:18:53 GMT+0000 (GMT),0,,Flash,v3,Black,,Touchstone Pacific Pipe,,,1
+Sun Dec 26 2021 20:00:06 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Pacific Pipe,,,1
+Sun Dec 26 2021 20:04:22 GMT+0000 (GMT),0,,Repeat,v1,Yellow,,Touchstone Pacific Pipe,,,1
+Sun Dec 26 2021 20:04:51 GMT+0000 (GMT),0,,Repeat,v2,Pink,,Touchstone Pacific Pipe,,,1
+Sun Dec 26 2021 20:15:40 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Pacific Pipe,,,1
+Sun Dec 26 2021 20:19:11 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Pacific Pipe,,,1
+Tue Dec 28 2021 22:27:52 GMT+0000 (GMT),0,,Redpoint,v2,,,Santa Barbara Rock Gym,,,2
+Tue Dec 28 2021 22:27:57 GMT+0000 (GMT),0,,Flash,v1,,,Santa Barbara Rock Gym,,,1
+Tue Dec 28 2021 22:32:32 GMT+0000 (GMT),0,,Flash,v1,,,Santa Barbara Rock Gym,,,1
+Tue Dec 28 2021 22:32:38 GMT+0000 (GMT),0,,Flash,v1,,,Santa Barbara Rock Gym,,,1
+Tue Dec 28 2021 22:34:52 GMT+0000 (GMT),0,,Flash,v1,,,Santa Barbara Rock Gym,,,1
+Fri Dec 31 2021 19:42:20 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Movement San Francisco,,,1
+Fri Dec 31 2021 19:42:20 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Fri Dec 31 2021 19:45:04 GMT+0000 (GMT),0,,Flash,v1,Green,,Movement San Francisco,,,1
+Fri Dec 31 2021 20:04:01 GMT+0000 (GMT),0,,Flash,v3,Purple,,Movement San Francisco,,,1
+Fri Dec 31 2021 21:06:24 GMT+0000 (GMT),0,,Flash,v2,Black,,Movement San Francisco,,,1
+Fri Dec 31 2021 21:20:02 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Movement San Francisco,,,1
+Fri Dec 31 2021 21:39:59 GMT+0000 (GMT),0,,Flash,v2,White,,Movement San Francisco,,,1
+Fri Dec 31 2021 22:39:54 GMT+0000 (GMT),0,,Redpoint,v3,Orange,,Movement San Francisco,,,4
+Fri Dec 31 2021 22:43:54 GMT+0000 (GMT),0,,Flash,v2,Orange,,Movement San Francisco,,,1
+Tue Jan 04 2022 02:10:36 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Dogpatch Boulders,,,1
+Tue Jan 04 2022 02:13:48 GMT+0000 (GMT),0,,Redpoint,v1,Purple,,Touchstone Dogpatch Boulders,,,
+Tue Jan 04 2022 02:26:54 GMT+0000 (GMT),0,,Flash,v2,Pink,,Touchstone Dogpatch Boulders,,,1
+Tue Jan 04 2022 02:48:33 GMT+0000 (GMT),0,,Flash,v4,Purple,,,,,1
+Tue Jan 04 2022 03:43:55 GMT+0000 (GMT),0,,Redpoint,v4,,,,,,4
+Tue Jan 04 2022 04:24:26 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,2
+Sat Jan 08 2022 02:32:28 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Movement Santa Clara,,,1
+Sat Jan 08 2022 02:34:58 GMT+0000 (GMT),0,,Flash,v0,Pink,,Movement Santa Clara,,,1
+Sat Jan 08 2022 02:48:12 GMT+0000 (GMT),0,,Flash,v2,Purple,,Movement Santa Clara,,,1
+Sat Jan 08 2022 03:04:41 GMT+0000 (GMT),0,,Flash,v2,Blue,,Movement Santa Clara,,,1
+Sat Jan 08 2022 03:06:51 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Santa Clara,,,1
+Sat Jan 08 2022 03:22:03 GMT+0000 (GMT),0,,Flash,v2,Blue,,Movement Santa Clara,,,1
+Sat Jan 08 2022 03:55:19 GMT+0000 (GMT),0,,Repeat,v2,Pink,,Movement Santa Clara,,,1
+Sat Jan 08 2022 04:02:46 GMT+0000 (GMT),0,,Flash,v2,Green,,Movement Santa Clara,,,1
+Sat Jan 08 2022 04:16:22 GMT+0000 (GMT),0,,Flash,v1,Orange,,Movement Santa Clara,,,1
+Sat Jan 08 2022 04:19:12 GMT+0000 (GMT),0,,Flash,v1,Purple,,Movement Santa Clara,,,1
+Wed Jan 12 2022 02:12:32 GMT+0000 (GMT),0,,Flash,v0,,,Touchstone Dogpatch Boulders,,,1
+Wed Jan 12 2022 02:16:32 GMT+0000 (GMT),0,,Flash,v2,Blue,,Touchstone Dogpatch Boulders,,,1
+Wed Jan 12 2022 03:24:49 GMT+0000 (GMT),0,,Redpoint,v3,Blue,,Touchstone Dogpatch Boulders,,,2
+Fri Jan 14 2022 02:10:13 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Fri Jan 14 2022 02:10:13 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Fri Jan 14 2022 02:10:13 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Fri Jan 14 2022 02:10:13 GMT+0000 (GMT),0,,Redpoint,v4,,,,,,
+Fri Jan 14 2022 02:10:13 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Fri Jan 14 2022 02:10:13 GMT+0000 (GMT),0,,Redpoint,v4,,,,,,
+Fri Jan 14 2022 02:10:13 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Fri Jan 14 2022 02:10:13 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Fri Jan 14 2022 02:10:13 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Sat Jan 15 2022 21:57:52 GMT+0000 (GMT),0,,Flash,v0,Purple,,Touchstone Pacific Pipe,,,1
+Sat Jan 15 2022 21:59:30 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Pacific Pipe,,,1
+Sat Jan 15 2022 22:03:17 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Pacific Pipe,,,1
+Sat Jan 15 2022 22:49:52 GMT+0000 (GMT),0,,Repeat,v3,Black,,Touchstone Pacific Pipe,,,1
+Sat Jan 15 2022 23:19:31 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Pacific Pipe,,,1
+Wed Jan 19 2022 02:06:27 GMT+0000 (GMT),0,,Flash,v0,Black,,,,,1
+Wed Jan 19 2022 02:06:27 GMT+0000 (GMT),0,2,Redpoint,v2,,,,,,
+Wed Jan 19 2022 02:08:53 GMT+0000 (GMT),0,,Repeat,v2,,,,,,1
+Wed Jan 19 2022 02:18:54 GMT+0000 (GMT),0,,Flash,v2,Black,,,,,1
+Wed Jan 19 2022 03:22:54 GMT+0000 (GMT),0,,Redpoint,v2,Yellow,,Touchstone Dogpatch Boulders,,,
+Wed Jan 19 2022 04:10:22 GMT+0000 (GMT),0,,Repeat,v3,Blue,,,,,1
+Wed Jan 19 2022 04:15:48 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Dogpatch Boulders,,,1
+Tue Jan 25 2022 02:18:36 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,2
+Tue Jan 25 2022 02:20:48 GMT+0000 (GMT),0,,Flash,v1,,,,,,1
+Tue Feb 01 2022 02:24:45 GMT+0000 (GMT),0,,Redpoint,v1,White,,Movement Santa Clara,,,
+Tue Feb 01 2022 03:10:09 GMT+0000 (GMT),0,,Flash,v2,Purple,,Movement Santa Clara,,,1
+Tue Feb 01 2022 03:43:50 GMT+0000 (GMT),0,,Redpoint,v3,Blue,,Movement Santa Clara,,,2
+Tue Feb 01 2022 03:52:31 GMT+0000 (GMT),0,,Flash,v2,Black,,Movement Santa Clara,,,1
+Fri Feb 04 2022 02:24:49 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Fri Feb 04 2022 02:24:49 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Fri Feb 04 2022 02:24:49 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Fri Feb 04 2022 02:24:49 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Fri Feb 04 2022 02:24:49 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Fri Feb 04 2022 02:24:49 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v4,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Mon Feb 07 2022 22:38:37 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Thu Feb 10 2022 01:44:50 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Thu Feb 10 2022 01:44:50 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Thu Feb 10 2022 01:44:50 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Thu Feb 10 2022 01:44:50 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Thu Feb 10 2022 01:44:50 GMT+0000 (GMT),0,,Redpoint,v4,,,,,,
+Thu Feb 10 2022 01:44:50 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Thu Feb 10 2022 01:44:50 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Thu Feb 10 2022 01:44:50 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Fri Feb 11 2022 01:31:56 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Fri Feb 11 2022 01:31:56 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Fri Feb 11 2022 01:31:56 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Fri Feb 11 2022 01:31:56 GMT+0000 (GMT),0,,Redpoint,v4,,,,,,
+Sat Feb 12 2022 22:14:14 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Sat Feb 12 2022 22:14:14 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Sat Feb 12 2022 22:14:14 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Sat Feb 12 2022 22:14:14 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Sat Feb 12 2022 22:14:14 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Thu Feb 17 2022 01:55:50 GMT+0000 (GMT),0,,Flash,v0,Pink,,Movement Santa Clara,,,1
+Thu Feb 17 2022 01:57:29 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Movement Santa Clara,,,1
+Thu Feb 17 2022 02:24:29 GMT+0000 (GMT),0,,Flash,v2,Blue,,Movement Santa Clara,,,1
+Thu Feb 17 2022 02:41:11 GMT+0000 (GMT),0,,Flash,v2,Purple,,Movement Santa Clara,,,1
+Thu Feb 17 2022 03:01:22 GMT+0000 (GMT),0,4,Redpoint,v3,Yellow,,Movement Santa Clara,,,2
+Thu Feb 17 2022 03:17:23 GMT+0000 (GMT),0,,Repeat,v3,Yellow,,Movement Santa Clara,,,1
+Thu Feb 17 2022 03:36:12 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Santa Clara,,,1
+Thu Feb 17 2022 04:20:28 GMT+0000 (GMT),0,,Redpoint,v3,Blue,,Movement Santa Clara,,,
+Thu Feb 17 2022 04:26:31 GMT+0000 (GMT),0,,Flash,v1,Pink,,Movement Santa Clara,,,1
+Thu Feb 17 2022 04:54:29 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Santa Clara,,,1
+Sat Feb 19 2022 18:52:27 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Sat Feb 19 2022 18:52:27 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Sat Feb 19 2022 18:52:27 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Sat Feb 19 2022 18:52:27 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Thu Feb 24 2022 01:09:02 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Thu Feb 24 2022 01:09:02 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Thu Feb 24 2022 01:09:02 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Thu Feb 24 2022 01:09:02 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Sun Feb 27 2022 01:08:11 GMT+0000 (GMT),0,,Flash,v1,Blue,,Movement San Francisco,,,1
+Sun Feb 27 2022 01:08:14 GMT+0000 (GMT),0,,Flash,v2,Green,,Movement San Francisco,,,1
+Sun Feb 27 2022 01:12:27 GMT+0000 (GMT),0,,Flash,v2,Purple,,Movement San Francisco,,,1
+Sun Feb 27 2022 01:18:22 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Movement San Francisco,,,
+Sun Feb 27 2022 01:23:30 GMT+0000 (GMT),0,,Flash,v3,Purple,,Movement San Francisco,,,1
+Sun Feb 27 2022 01:56:22 GMT+0000 (GMT),0,,Flash,v3,Green,,Movement San Francisco,,,1
+Sun Feb 27 2022 03:03:33 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Movement San Francisco,,,1
+Tue Mar 01 2022 02:07:03 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Tue Mar 01 2022 02:07:03 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Tue Mar 01 2022 02:07:03 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Tue Mar 01 2022 02:07:03 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Tue Mar 01 2022 02:07:03 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Tue Mar 01 2022 02:07:03 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,
+Tue Mar 01 2022 02:07:03 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Thu Mar 03 2022 02:12:10 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Dogpatch Boulders,,,1
+Thu Mar 03 2022 02:12:21 GMT+0000 (GMT),0,,Flash,v1,,,Touchstone Dogpatch Boulders,,,1
+Thu Mar 03 2022 02:15:45 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Dogpatch Boulders,,,1
+Thu Mar 03 2022 03:45:46 GMT+0000 (GMT),0,,Redpoint,v3,White,,Touchstone Dogpatch Boulders,,,
+Sat Mar 05 2022 02:14:30 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Dogpatch Boulders,,,1
+Sat Mar 05 2022 02:14:35 GMT+0000 (GMT),0,,Flash,v1,Pink,,Touchstone Dogpatch Boulders,,,1
+Sat Mar 05 2022 02:17:24 GMT+0000 (GMT),0,,Flash,v1,Black,,Touchstone Dogpatch Boulders,,,1
+Sat Mar 05 2022 02:26:29 GMT+0000 (GMT),0,,Repeat,v2,Yellow,,Touchstone Dogpatch Boulders,,,1
+Sat Mar 05 2022 03:27:45 GMT+0000 (GMT),0,,Flash,v3,White,,Touchstone Dogpatch Boulders,,,1
+Wed Mar 09 2022 02:15:14 GMT+0000 (GMT),0,,Onsight,v0,Purple,,Touchstone Dogpatch Boulders,,,1
+Wed Mar 09 2022 02:18:39 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Dogpatch Boulders,,,1
+Wed Mar 09 2022 02:22:15 GMT+0000 (GMT),0,,Redpoint,v2,Yellow,,Touchstone Dogpatch Boulders,,,
+Wed Mar 09 2022 02:34:02 GMT+0000 (GMT),0,,Repeat,v3,White,,Touchstone Dogpatch Boulders,,,1
+Wed Mar 09 2022 04:06:16 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Touchstone Dogpatch Boulders,,,3
+Wed Mar 09 2022 04:27:15 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Dogpatch Boulders,,,1
+Fri Mar 11 2022 01:35:56 GMT+0000 (GMT),0,,Flash,v1,,,Touchstone Dogpatch Boulders,,,1
+Fri Mar 11 2022 02:21:43 GMT+0000 (GMT),0,,Repeat,v2,Orange,,Touchstone Dogpatch Boulders,,,1
+Fri Mar 11 2022 02:53:05 GMT+0000 (GMT),0,,Flash,v3,Orange,,Touchstone Dogpatch Boulders,,,1
+Fri Mar 11 2022 03:13:39 GMT+0000 (GMT),0,,Repeat,v2,,,,,,1
+Sat Mar 12 2022 21:47:57 GMT+0000 (GMT),0,,Repeat,v0,Yellow,,Touchstone Dogpatch Boulders,,,1
+Sat Mar 12 2022 21:48:15 GMT+0000 (GMT),0,,Repeat,v2,Yellow,,Touchstone Dogpatch Boulders,,,
+Sat Mar 12 2022 21:52:35 GMT+0000 (GMT),0,,Repeat,v4,Purple,,,,,2
+Sat Mar 12 2022 22:12:26 GMT+0000 (GMT),0,,Repeat,v4,,,,,,1
+Sat Mar 12 2022 22:52:35 GMT+0000 (GMT),0,,Repeat,v3,Black,,,,,
+Sat Mar 12 2022 23:04:43 GMT+0000 (GMT),0,,Redpoint,v2,White,,Touchstone Dogpatch Boulders,,,
+Wed Mar 16 2022 00:29:56 GMT+0000 (GMT),0,,Flash,v3,Green,,Touchstone Dogpatch Boulders,,,1
+Wed Mar 16 2022 00:30:02 GMT+0000 (GMT),0,,Flash,v2,Purple,,Touchstone Dogpatch Boulders,,,1
+Wed Mar 16 2022 01:50:20 GMT+0000 (GMT),0,,Redpoint,v4,Pink,,Touchstone Dogpatch Boulders,,,3
+Wed Mar 16 2022 02:06:44 GMT+0000 (GMT),0,,Repeat,v3,Green,,Touchstone Dogpatch Boulders,,,1
+Wed Mar 16 2022 02:29:23 GMT+0000 (GMT),0,,Flash,v1,,,Touchstone Dogpatch Boulders,,,1
+Sat Mar 19 2022 23:35:14 GMT+0000 (GMT),0,,Repeat,v1,Pink,,Touchstone Dogpatch Boulders,,,
+Sat Mar 19 2022 23:35:20 GMT+0000 (GMT),0,,Repeat,v1,Pink,,Touchstone Dogpatch Boulders,,,
+Sat Mar 19 2022 23:35:37 GMT+0000 (GMT),0,,Flash,v0,White,,Touchstone Dogpatch Boulders,,,1
+Sat Mar 19 2022 23:51:49 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Touchstone Dogpatch Boulders,,,
+Sat Mar 19 2022 23:54:11 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Dogpatch Boulders,,,1
+Sun Mar 20 2022 00:47:35 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Dogpatch Boulders,,,1
+Sat Mar 26 2022 23:19:39 GMT+0000 (GMT),0,,Redpoint,v0,,,,,,
+Sat Mar 26 2022 23:19:39 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Sat Mar 26 2022 23:19:39 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Sat Mar 26 2022 23:19:39 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Sat Mar 26 2022 23:19:39 GMT+0000 (GMT),0,,Redpoint,v3,,,,,,3
+Sat Mar 26 2022 23:19:39 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Sat Mar 26 2022 23:19:39 GMT+0000 (GMT),0,,Redpoint,v1,,,,,,
+Sat Mar 26 2022 23:19:39 GMT+0000 (GMT),0,,Redpoint,v2,,,,,,
+Tue Mar 29 2022 14:43:52 GMT+0000 (GMT),0,,Flash,v0,White,,Touchstone Pacific Pipe,,,1
+Tue Mar 29 2022 14:44:06 GMT+0000 (GMT),0,,Redpoint,v2,Black,,Touchstone Pacific Pipe,,,
+Tue Mar 29 2022 14:44:30 GMT+0000 (GMT),0,,Onsight,v2,White,,Touchstone Pacific Pipe,,,1
+Tue Mar 29 2022 14:52:20 GMT+0000 (GMT),0,,Onsight,v3,Orange,,Touchstone Pacific Pipe,,,1
+Tue Mar 29 2022 15:10:35 GMT+0000 (GMT),0,,Onsight,v2,White,,Touchstone Pacific Pipe,,,1
+Tue Mar 29 2022 15:58:08 GMT+0000 (GMT),0,,Onsight,v3,Purple,,Touchstone Pacific Pipe,,,1
+Tue Mar 29 2022 16:16:11 GMT+0000 (GMT),0,,Repeat,v3,Purple,,Touchstone Pacific Pipe,,,1
+Tue Mar 29 2022 16:35:08 GMT+0000 (GMT),0,,Flash,v3,White,,Touchstone Pacific Pipe,,,1
+Tue Mar 29 2022 16:43:13 GMT+0000 (GMT),0,,Onsight,v4,Blue,,Touchstone Pacific Pipe,,,1
+Tue Mar 29 2022 16:57:45 GMT+0000 (GMT),0,,Onsight,v3,Green,,Touchstone Pacific Pipe,,,1
+Tue Mar 29 2022 17:20:50 GMT+0000 (GMT),0,,Onsight,v1,White,,Touchstone Pacific Pipe,,,1
+Fri Apr 01 2022 01:01:46 GMT+0000 (GMT),0,,Repeat,v1,Yellow,,Touchstone Dogpatch Boulders,,,1
+Fri Apr 01 2022 02:10:29 GMT+0000 (GMT),0,,Flash,v2,Purple,,Touchstone Dogpatch Boulders,,,1
+Fri Apr 01 2022 02:33:11 GMT+0000 (GMT),0,,Redpoint,v4,,,Touchstone Dogpatch Boulders,,,3
+Tue Apr 05 2022 14:45:17 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Pacific Pipe,,,1
+Tue Apr 05 2022 14:45:48 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Pacific Pipe,,,1
+Tue Apr 05 2022 15:33:26 GMT+0000 (GMT),0,,Repeat,v3,White,,Touchstone Pacific Pipe,,,1
+Fri Apr 08 2022 00:05:37 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Dogpatch Boulders,,,1
+Fri Apr 08 2022 00:08:45 GMT+0000 (GMT),0,,Flash,v3,Pink,,Touchstone Dogpatch Boulders,,,1
+Sun Apr 10 2022 19:24:39 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Pacific Pipe,,,1
+Sun Apr 10 2022 20:47:58 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Touchstone Pacific Pipe,,,3
+Sun Apr 10 2022 20:56:27 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Touchstone Pacific Pipe,,,4
+Sun Apr 10 2022 21:52:32 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Touchstone Pacific Pipe,,,3
+Tue Apr 12 2022 23:59:37 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Dogpatch Boulders,,,1
+Wed Apr 13 2022 01:10:29 GMT+0000 (GMT),0,,Flash,v3,Purple,,Touchstone Dogpatch Boulders,,,1
+Wed Apr 13 2022 01:34:09 GMT+0000 (GMT),0,,Flash,v4,Blue,,Touchstone Dogpatch Boulders,,,1
+Fri Apr 15 2022 01:09:31 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Touchstone Mission Cliffs,,,1
+Fri Apr 15 2022 01:09:44 GMT+0000 (GMT),0,,Flash,v0,Red,,Touchstone Mission Cliffs,,,1
+Fri Apr 15 2022 01:18:32 GMT+0000 (GMT),0,,Flash,v3,Pink,,Touchstone Mission Cliffs,,,1
+Fri Apr 15 2022 01:23:48 GMT+0000 (GMT),0,,Flash,v2,Purple,,Touchstone Mission Cliffs,,,1
+Fri Apr 15 2022 02:17:24 GMT+0000 (GMT),0,,Redpoint,v5,Black,,Touchstone Mission Cliffs,,,3
+Fri Apr 15 2022 02:28:52 GMT+0000 (GMT),0,,Redpoint,v4,Purple,,Touchstone Mission Cliffs,,,2
+Fri Apr 15 2022 03:38:44 GMT+0000 (GMT),0,,Redpoint,v3,Black,,Touchstone Mission Cliffs,,,2
+Sat Apr 16 2022 19:31:37 GMT+0000 (GMT),0,,Flash,v2,Blue,,Movement San Francisco,,,1
+Sat Apr 16 2022 19:34:52 GMT+0000 (GMT),0,,Flash,v2,Orange,,Movement San Francisco,,,1
+Sat Apr 16 2022 20:17:08 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Movement San Francisco,,,3
+Sat Apr 16 2022 20:57:34 GMT+0000 (GMT),0,,Flash,v3,Purple,,Movement San Francisco,,,1
+Sat Apr 16 2022 21:23:13 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Movement San Francisco,,,1
+Sat Apr 16 2022 21:29:31 GMT+0000 (GMT),0,,Flash,v3,White,,Movement San Francisco,,,1
+Sat Apr 16 2022 21:34:34 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Movement San Francisco,,,1
+Sat Apr 16 2022 21:45:30 GMT+0000 (GMT),0,,Repeat,v3,Yellow,,Movement San Francisco,,,1
+Wed Apr 20 2022 00:48:53 GMT+0000 (GMT),0,,Flash,v0,Black,,Touchstone Dogpatch Boulders,,,1
+Wed Apr 20 2022 01:24:56 GMT+0000 (GMT),0,,Flash,v3,Blue,,Touchstone Dogpatch Boulders,,,1
+Wed Apr 20 2022 02:02:32 GMT+0000 (GMT),0,,Redpoint,v4,Yellow,,Touchstone Dogpatch Boulders,,,2
+Wed Apr 20 2022 02:59:26 GMT+0000 (GMT),0,,Redpoint,v4,Purple,,Touchstone Dogpatch Boulders,,,2
+Wed Apr 20 2022 03:39:23 GMT+0000 (GMT),0,,Flash,v2,Black,,Touchstone Dogpatch Boulders,,,1
+Fri Apr 22 2022 00:48:44 GMT+0000 (GMT),0,,Flash,v2,Purple,,Movement Santa Clara,,,1
+Fri Apr 22 2022 00:49:34 GMT+0000 (GMT),0,,Flash,v1,Green,,Movement Santa Clara,,,1
+Fri Apr 22 2022 03:18:20 GMT+0000 (GMT),0,,Flash,v2,Black,,Movement Santa Clara,,,1
+Fri Apr 22 2022 03:18:25 GMT+0000 (GMT),0,,Repeat,v2,Black,,Movement Santa Clara,,,1
+Fri Apr 22 2022 03:55:42 GMT+0000 (GMT),0,,Flash,v2,Green,,Movement Santa Clara,,,1
+Sun Apr 24 2022 20:43:48 GMT+0000 (GMT),0,,Flash,v2,Blue,,Movement Sunnyvale,,,1
+Sun Apr 24 2022 20:48:28 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Sunnyvale,,,1
+Sun Apr 24 2022 21:46:19 GMT+0000 (GMT),0,,Flash,v3,Pink,,Movement Sunnyvale,,,1
+Sun Apr 24 2022 21:50:37 GMT+0000 (GMT),0,,Flash,v2,Pink,,Movement Sunnyvale,,,1
+Sun Apr 24 2022 21:55:50 GMT+0000 (GMT),0,,Flash,v3,Black,,Movement Sunnyvale,,,1
+Sun Apr 24 2022 22:43:37 GMT+0000 (GMT),0,,Flash,v2,Black,,Movement Sunnyvale,,,1
+Sun Apr 24 2022 23:02:58 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Movement Sunnyvale,,,1
+Thu Apr 28 2022 14:15:37 GMT+0000 (GMT),0,,Flash,v0,Orange,,Touchstone Pacific Pipe,,,1
+Thu Apr 28 2022 14:17:01 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Pacific Pipe,,,1
+Thu Apr 28 2022 14:19:00 GMT+0000 (GMT),0,,Flash,v2,Pink,,Touchstone Pacific Pipe,,,1
+Thu Apr 28 2022 14:26:55 GMT+0000 (GMT),0,,Flash,v3,Orange,,Touchstone Pacific Pipe,,,1
+Thu Apr 28 2022 15:33:32 GMT+0000 (GMT),0,,Redpoint,v4,Pink,The Jeff Goldblum Experience ,Touchstone Pacific Pipe,,,2
+Thu Apr 28 2022 15:40:59 GMT+0000 (GMT),0,,Flash,v3,Orange,Business Tiger ,Touchstone Pacific Pipe,,,1
+Thu Apr 28 2022 15:53:08 GMT+0000 (GMT),0,,Flash,v3,Green,,Touchstone Pacific Pipe,,,1
+Thu Apr 28 2022 16:11:55 GMT+0000 (GMT),0,,Repeat,v3,Green,,Touchstone Pacific Pipe,,,1
+Thu May 05 2022 05:01:43 GMT+0000 (GMT),0,,Flash,v0,,China Doll,,China Doll Boulder,United States,1
+Thu May 05 2022 14:25:12 GMT+0000 (GMT),0,,Flash,v1,Pink,,Touchstone Dogpatch Boulders,,,1
+Thu May 05 2022 14:50:56 GMT+0000 (GMT),0,,Flash,v3,Green,,Touchstone Dogpatch Boulders,,,1
+Thu May 05 2022 15:57:51 GMT+0000 (GMT),0,,Flash,v3,Orange,,Touchstone Dogpatch Boulders,,,1
+Sat May 07 2022 00:27:50 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Dogpatch Boulders,,,1
+Sat May 07 2022 00:30:35 GMT+0000 (GMT),0,,Redpoint,v2,Purple,,Touchstone Dogpatch Boulders,,,2
+Sat May 07 2022 01:40:37 GMT+0000 (GMT),0,,Repeat,v4,Yellow,,Touchstone Dogpatch Boulders,,,1
+Sat May 07 2022 01:44:31 GMT+0000 (GMT),0,,Repeat,v3,Blue,,Touchstone Dogpatch Boulders,,,1
+Sat May 07 2022 02:37:33 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Dogpatch Boulders,,,1
+Sat May 07 2022 03:08:01 GMT+0000 (GMT),0,,Repeat,v3,Green,,Touchstone Dogpatch Boulders,,,1
+Sat May 07 2022 04:32:06 GMT+0000 (GMT),0,,Redpoint,v3,Yellow,,Touchstone Dogpatch Boulders,,,3
+Tue May 10 2022 14:32:11 GMT+0000 (GMT),0,,Flash,v0,White,,Touchstone Pacific Pipe,,,1
+Tue May 10 2022 14:32:13 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Pacific Pipe,,,1
+Tue May 10 2022 15:39:15 GMT+0000 (GMT),0,,Flash,v4,Pink,,Touchstone Pacific Pipe,,,1
+Tue May 10 2022 15:41:10 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Touchstone Pacific Pipe,,,2
+Tue May 10 2022 16:37:29 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Pacific Pipe,,,1
+Wed May 11 2022 14:20:01 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Pacific Pipe,,,1
+Wed May 11 2022 14:20:33 GMT+0000 (GMT),0,,Flash,v0,White,,Touchstone Pacific Pipe,,,1
+Wed May 11 2022 14:22:25 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Pacific Pipe,,,1
+Wed May 11 2022 14:25:10 GMT+0000 (GMT),0,,Flash,v2,Purple,,Touchstone Pacific Pipe,,,1
+Wed May 11 2022 14:42:39 GMT+0000 (GMT),0,,Flash,v3,Pink,,Touchstone Pacific Pipe,,,1
+Wed May 11 2022 14:55:03 GMT+0000 (GMT),0,,Repeat,v3,Pink,,Touchstone Pacific Pipe,,,1
+Wed May 11 2022 15:16:39 GMT+0000 (GMT),0,,Redpoint,v3,Green,,Touchstone Pacific Pipe,,,2
+Fri May 13 2022 02:02:06 GMT+0000 (GMT),0,,Flash,v0,,,,,,1
+Fri May 13 2022 03:23:24 GMT+0000 (GMT),0,4,Redpoint,v4,Yellow Circuit,,Bridges Rock Gym,,,4
+Fri May 13 2022 03:51:20 GMT+0000 (GMT),0,3,Flash,v2,Blue Circuit,,Bridges Rock Gym,,,1
+Tue May 17 2022 14:14:47 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Dogpatch Boulders,,,1
+Tue May 17 2022 14:14:53 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Dogpatch Boulders,,,1
+Tue May 17 2022 14:17:27 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Dogpatch Boulders,,,1
+Tue May 17 2022 14:21:29 GMT+0000 (GMT),0,,Flash,v3,Purple,,Touchstone Dogpatch Boulders,,,1
+Tue May 17 2022 14:43:26 GMT+0000 (GMT),0,,Flash,v3,Orange,,Touchstone Dogpatch Boulders,,,1
+Tue May 17 2022 15:58:50 GMT+0000 (GMT),0,,Flash,v3,Pink,,Touchstone Dogpatch Boulders,,,1
+Thu May 19 2022 00:30:00 GMT+0000 (GMT),0,,Flash,v1,Black,,Touchstone Dogpatch Boulders,,,1
+Thu May 19 2022 00:33:23 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Dogpatch Boulders,,,1
+Thu May 19 2022 00:42:18 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Dogpatch Boulders,,,1
+Thu May 19 2022 00:52:47 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Dogpatch Boulders,,,1
+Thu May 19 2022 01:08:57 GMT+0000 (GMT),0,,Redpoint,v2,Purple,,Touchstone Dogpatch Boulders,,,2
+Thu May 19 2022 01:26:13 GMT+0000 (GMT),0,,Repeat,v2,Purple,,Touchstone Dogpatch Boulders,,,2
+Thu May 19 2022 02:04:32 GMT+0000 (GMT),0,,Redpoint,v3,Blue,,Touchstone Dogpatch Boulders,,,2
+Thu May 19 2022 02:33:52 GMT+0000 (GMT),0,,Repeat,v2,Purple,,Touchstone Dogpatch Boulders,,,1
+Fri May 20 2022 14:31:31 GMT+0000 (GMT),0,,Flash,v0,Green,,Touchstone Pacific Pipe,,,1
+Fri May 20 2022 14:31:56 GMT+0000 (GMT),0,,Flash,v1,Pink,,Touchstone Pacific Pipe,,,1
+Fri May 20 2022 14:32:00 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Pacific Pipe,,,1
+Fri May 20 2022 14:39:07 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Pacific Pipe,,,1
+Fri May 20 2022 14:41:29 GMT+0000 (GMT),0,,Repeat,v2,Orange,,Touchstone Pacific Pipe,,,1
+Fri May 20 2022 14:47:12 GMT+0000 (GMT),0,,Flash,v3,Black,,Touchstone Pacific Pipe,,,1
+Fri May 20 2022 15:18:30 GMT+0000 (GMT),0,,Redpoint,v4,Blue,,Touchstone Pacific Pipe,,,2
+Fri May 20 2022 15:57:44 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Touchstone Pacific Pipe,,,1
+Fri May 20 2022 16:05:29 GMT+0000 (GMT),0,,Repeat,v2,White,,Touchstone Pacific Pipe,,,1
+Thu Jun 09 2022 01:37:46 GMT+0000 (GMT),0,,Repeat,v1,Blue,,Touchstone Dogpatch Boulders,,,1
+Thu Jun 09 2022 01:37:57 GMT+0000 (GMT),0,,Repeat,v0,Blue,,Touchstone Dogpatch Boulders,,,1
+Thu Jun 09 2022 01:41:50 GMT+0000 (GMT),0,,Repeat,v2,Green,,Touchstone Dogpatch Boulders,,,1
+Thu Jun 09 2022 01:47:41 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Dogpatch Boulders,,,1
+Thu Jun 09 2022 02:57:04 GMT+0000 (GMT),0,,Flash,v3,Black,,Touchstone Dogpatch Boulders,,,1
+Thu Jun 09 2022 04:50:57 GMT+0000 (GMT),0,5,Redpoint,v2,Purple,,Touchstone Dogpatch Boulders,,,3
+Sat Jun 11 2022 00:23:21 GMT+0000 (GMT),0,,Flash,v1,Pink,,Touchstone Dogpatch Boulders,,,1
+Sat Jun 11 2022 00:27:22 GMT+0000 (GMT),0,,Flash,v0,White,,Touchstone Dogpatch Boulders,,,1
+Sat Jun 11 2022 02:20:27 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Dogpatch Boulders,,,1
+Wed Jun 15 2022 01:06:35 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Dogpatch Boulders,,,1
+Wed Jun 15 2022 01:23:03 GMT+0000 (GMT),0,,Flash,v2,Blue,,Touchstone Dogpatch Boulders,,,1
+Wed Jun 15 2022 03:31:13 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Dogpatch Boulders,,,1
+Fri Jun 17 2022 14:44:05 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Pacific Pipe,,,1
+Fri Jun 17 2022 16:38:43 GMT+0000 (GMT),0,,Flash,v1,Black,,Touchstone Pacific Pipe,,,1
+Mon Jun 20 2022 21:25:50 GMT+0000 (GMT),0,,Flash,v1,Pink,,Touchstone Dogpatch Boulders,,,1
+Mon Jun 20 2022 21:29:21 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Dogpatch Boulders,,,1
+Mon Jun 20 2022 22:35:43 GMT+0000 (GMT),0,,Repeat,v1,Green,,Touchstone Dogpatch Boulders,,,1
+Mon Jun 20 2022 22:36:06 GMT+0000 (GMT),0,,Redpoint,v3,Orange,,Touchstone Dogpatch Boulders,,,4
+Mon Jun 20 2022 22:43:30 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Dogpatch Boulders,,,1
+Mon Jun 20 2022 23:09:58 GMT+0000 (GMT),0,,Flash,v2,Pink,,Touchstone Dogpatch Boulders,,,1
+Sat Jun 25 2022 22:18:56 GMT+0000 (GMT),0,,Flash,v0,Orange,,Touchstone Dogpatch Boulders,,,1
+Sat Jun 25 2022 22:23:41 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Dogpatch Boulders,,,1
+Sat Jun 25 2022 22:42:21 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Dogpatch Boulders,,,1
+Mon Jun 27 2022 00:06:09 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Dogpatch Boulders,,,1
+Tue Jun 28 2022 14:31:22 GMT+0000 (GMT),0,,Flash,v2,,,,,,1
+Tue Jun 28 2022 14:32:04 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Pacific Pipe,,,1
+Tue Jun 28 2022 14:51:32 GMT+0000 (GMT),0,,Redpoint,v3,Green,,Touchstone Pacific Pipe,,,2
+Tue Jun 28 2022 15:37:26 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Touchstone Pacific Pipe,,,3
+Tue Jun 28 2022 16:12:57 GMT+0000 (GMT),0,,Redpoint,v3,Green,,Touchstone Pacific Pipe,,,3
+Tue Jun 28 2022 16:39:12 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Touchstone Pacific Pipe,,,3
+Wed Jun 29 2022 00:55:23 GMT+0000 (GMT),0,,Flash,v2,Black,,Touchstone Dogpatch Boulders,,,1
+Wed Jun 29 2022 02:10:59 GMT+0000 (GMT),0,4,Flash,v3,Blue,,Touchstone Dogpatch Boulders,,,1
+Fri Jul 01 2022 14:34:23 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Pacific Pipe,,,1
+Fri Jul 01 2022 14:38:22 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Pacific Pipe,,,1
+Fri Jul 01 2022 15:51:28 GMT+0000 (GMT),0,,Flash,v3,Purple,,Touchstone Pacific Pipe,,,1
+Fri Jul 01 2022 17:43:01 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Pacific Pipe,,,1
+Fri Jul 01 2022 17:53:53 GMT+0000 (GMT),0,,Flash,v3,Black,,Touchstone Pacific Pipe,,,1
+Fri Jul 01 2022 18:48:31 GMT+0000 (GMT),0,,Redpoint,v4,Green,,Touchstone Pacific Pipe,,,3
+Fri Jul 01 2022 19:12:15 GMT+0000 (GMT),0,,Flash,v2,Pink,,Touchstone Pacific Pipe,,,1
+Sun Jul 03 2022 23:07:26 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Dogpatch Boulders,,,1
+Sun Jul 03 2022 23:07:28 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Dogpatch Boulders,,,1
+Sun Jul 03 2022 23:12:37 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Dogpatch Boulders,,,1
+Mon Jul 04 2022 00:51:03 GMT+0000 (GMT),0,,Flash,v2,Blue,,Touchstone Dogpatch Boulders,,,1
+Wed Jul 06 2022 01:36:32 GMT+0000 (GMT),0,,Repeat,v2,Green,,Touchstone Dogpatch Boulders,,,1
+Wed Jul 06 2022 01:37:03 GMT+0000 (GMT),0,,Repeat,v0,Yellow,,Touchstone Dogpatch Boulders,,,1
+Wed Jul 06 2022 03:02:24 GMT+0000 (GMT),0,,Flash,v1,Pink,,Touchstone Dogpatch Boulders,,,1
+Wed Jul 06 2022 03:30:06 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Dogpatch Boulders,,,1
+Fri Jul 08 2022 01:11:16 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Pacific Pipe,,,1
+Fri Jul 08 2022 02:13:04 GMT+0000 (GMT),0,,Redpoint,v3,Orange,,Touchstone Pacific Pipe,,,4
+Fri Jul 08 2022 02:32:38 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Touchstone Pacific Pipe,,,1
+Sun Jul 10 2022 21:47:05 GMT+0000 (GMT),0,,Flash,v0,Green,,Touchstone Pacific Pipe,,,1
+Sun Jul 10 2022 21:49:17 GMT+0000 (GMT),0,,Flash,v2,Purple,,Touchstone Pacific Pipe,,,1
+Sun Jul 10 2022 23:09:35 GMT+0000 (GMT),0,,Redpoint,v3,Black,,Touchstone Pacific Pipe,,,3
+Wed Jul 13 2022 01:31:41 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Dogpatch Boulders,,,1
+Wed Jul 13 2022 01:58:04 GMT+0000 (GMT),0,,Flash,v3,Purple,,Touchstone Dogpatch Boulders,,,1
+Fri Jul 15 2022 00:57:58 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Dogpatch Boulders,,,1
+Sun Jul 17 2022 20:21:10 GMT+0000 (GMT),0,,Flash,v0,Green,,Touchstone Dogpatch Boulders,,,1
+Sun Jul 17 2022 20:23:52 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Dogpatch Boulders,,,1
+Tue Jul 19 2022 14:20:21 GMT+0000 (GMT),0,,Flash,v0,Green,,Touchstone Pacific Pipe,,,1
+Tue Jul 19 2022 14:24:51 GMT+0000 (GMT),0,,Flash,v3,Purple,Jonah’s climb ,Touchstone Pacific Pipe,,,1
+Tue Jul 19 2022 18:02:30 GMT+0000 (GMT),0,,Flash,v2,Green,,Touchstone Pacific Pipe,,,1
+Sat Jul 23 2022 23:22:46 GMT+0000 (GMT),0,,Flash,v2,Black,,Movement Sunnyvale,,,1
+Sat Jul 23 2022 23:45:23 GMT+0000 (GMT),0,,Redpoint,v4,Black,,Movement Sunnyvale,,,2
+Sun Jul 24 2022 01:45:59 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Movement Sunnyvale,,,3
+Fri Jul 29 2022 01:51:02 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone The Studio,,,1
+Fri Jul 29 2022 02:24:34 GMT+0000 (GMT),0,,Flash,v3,Black,,Touchstone The Studio,,,1
+Fri Jul 29 2022 02:24:44 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone The Studio,,,1
+Fri Jul 29 2022 04:31:44 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone The Studio,,,1
+Sat Jul 30 2022 23:05:55 GMT+0000 (GMT),0,,Repeat,v0,Orange,,Touchstone Pacific Pipe,,,1
+Sat Jul 30 2022 23:27:31 GMT+0000 (GMT),0,,Flash,v3,Green,,Touchstone Pacific Pipe,,,1
+Sat Jul 30 2022 23:36:00 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Pacific Pipe,,,1
+Mon Aug 01 2022 22:59:54 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Pacific Pipe,,,1
+Mon Aug 01 2022 23:27:25 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Touchstone Pacific Pipe,,,3
+Tue Aug 02 2022 01:48:55 GMT+0000 (GMT),0,,Flash,v2,Blue,,Touchstone Pacific Pipe,,,1
+Thu Aug 04 2022 14:12:54 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Dogpatch Boulders,,,1
+Fri Aug 05 2022 14:29:20 GMT+0000 (GMT),0,,Flash,v0,Green,,Touchstone Dogpatch Boulders,,,1
+Fri Aug 05 2022 14:30:54 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Dogpatch Boulders,,,1
+Fri Aug 05 2022 15:22:06 GMT+0000 (GMT),0,,Redpoint,v3,Green,,Touchstone Dogpatch Boulders,,,4
+Sun Aug 07 2022 21:59:21 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Movement San Francisco,,,1
+Wed Aug 10 2022 00:39:03 GMT+0000 (GMT),0,,Flash,v1,White,,Touchstone Dogpatch Boulders,,,1
+Wed Aug 10 2022 05:15:43 GMT+0000 (GMT),0,,Redpoint,v2,Purple,,Touchstone Dogpatch Boulders,,,2
+Fri Aug 12 2022 14:19:54 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Pacific Pipe,,,1
+Fri Aug 12 2022 14:20:00 GMT+0000 (GMT),0,,Flash,v0,Black,,Touchstone Pacific Pipe,,,1
+Fri Aug 12 2022 14:25:33 GMT+0000 (GMT),0,,Flash,v3,Black,,Touchstone Pacific Pipe,,,1
+Tue Aug 16 2022 14:19:26 GMT+0000 (GMT),0,,Repeat,v1,White,,Touchstone Dogpatch Boulders,,,1
+Tue Aug 16 2022 14:28:25 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Dogpatch Boulders,,,1
+Tue Aug 16 2022 20:27:58 GMT+0000 (GMT),0,4,Redpoint,v3,Purple,,Touchstone Dogpatch Boulders,,,3
+Tue Aug 16 2022 20:28:19 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Dogpatch Boulders,,,1
+Fri Aug 19 2022 01:07:44 GMT+0000 (GMT),0,,Flash,v1,White,,Touchstone Dogpatch Boulders,,,1
+Fri Aug 19 2022 01:07:58 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Dogpatch Boulders,,,1
+Fri Aug 19 2022 01:32:13 GMT+0000 (GMT),0,,Redpoint,v3,Green,,Touchstone Dogpatch Boulders,,,7
+Fri Aug 19 2022 02:29:38 GMT+0000 (GMT),0,,Redpoint,v4,Yellow,,Touchstone Dogpatch Boulders,,,4
+Fri Aug 19 2022 02:35:12 GMT+0000 (GMT),0,,Flash,v0,Orange,,Touchstone Dogpatch Boulders,,,1
+Sun Aug 21 2022 22:14:19 GMT+0000 (GMT),0,,Repeat,v2,Yellow,,Movement San Francisco,,,1
+Sun Aug 21 2022 22:18:51 GMT+0000 (GMT),0,,Redpoint,v3,Orange,,Movement San Francisco,,,3
+Sun Aug 21 2022 23:33:41 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Movement San Francisco,,,2
+Mon Aug 22 2022 05:42:31 GMT+0000 (GMT),0,,Flash,v2,White,,Movement San Francisco,,,1
+Tue Aug 23 2022 14:32:03 GMT+0000 (GMT),0,,Flash,v0,Orange,,Touchstone Pacific Pipe,,,1
+Tue Aug 23 2022 14:37:03 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Pacific Pipe,,,1
+Tue Aug 23 2022 14:41:53 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Pacific Pipe,,,1
+Tue Aug 23 2022 15:53:08 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Touchstone Pacific Pipe,,,1
+Fri Aug 26 2022 01:10:58 GMT+0000 (GMT),0,,Flash,v2,Purple,,Touchstone Dogpatch Boulders,,,1
+Fri Aug 26 2022 01:37:15 GMT+0000 (GMT),0,,Flash,v3,White,,Touchstone Dogpatch Boulders,,,1
+Tue Aug 30 2022 14:10:41 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Dogpatch Boulders,,,1
+Tue Aug 30 2022 14:16:21 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Dogpatch Boulders,,,1
+Tue Aug 30 2022 15:46:19 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Dogpatch Boulders,,,1
+Tue Aug 30 2022 16:53:24 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Dogpatch Boulders,,,1
+Fri Sep 02 2022 23:58:25 GMT+0000 (GMT),0,,Flash,v0,Orange,,Touchstone Dogpatch Boulders,,,1
+Sat Sep 03 2022 00:00:16 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Dogpatch Boulders,,,1
+Sat Sep 03 2022 00:06:35 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Touchstone Dogpatch Boulders,,,1
+Sun Sep 04 2022 22:40:02 GMT+0000 (GMT),0,,Flash,v0,Orange,,Touchstone Dogpatch Boulders,,,1
+Sun Sep 04 2022 22:49:44 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Dogpatch Boulders,,,1
+Mon Sep 05 2022 00:42:09 GMT+0000 (GMT),0,,Redpoint,v4,Yellow,,Touchstone Dogpatch Boulders,,,5
+Wed Sep 07 2022 01:57:54 GMT+0000 (GMT),0,,Flash,v0,Orange,,Touchstone Dogpatch Boulders,,,1
+Wed Sep 07 2022 02:10:50 GMT+0000 (GMT),0,,Flash,v3,White,,Touchstone Dogpatch Boulders,,,1
+Thu Sep 08 2022 23:59:39 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Dogpatch Boulders,,,1
+Fri Sep 09 2022 00:03:15 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Dogpatch Boulders,,,1
+Fri Sep 09 2022 00:14:39 GMT+0000 (GMT),0,,Flash,v3,Pink,,Touchstone Dogpatch Boulders,,,1
+Fri Sep 09 2022 01:01:28 GMT+0000 (GMT),0,,Flash,v3,Blue,,Touchstone Dogpatch Boulders,,,1
+Tue Sep 13 2022 03:17:53 GMT+0000 (GMT),0,,Onsight,v1,Green,,Movement Santa Clara,,,1
+Tue Sep 13 2022 03:21:20 GMT+0000 (GMT),0,,Flash,v2,Blue,,Movement Santa Clara,,,1
+Fri Sep 16 2022 00:40:13 GMT+0000 (GMT),0,,Flash,v0,Green,,Touchstone Dogpatch Boulders,,,1
+Fri Sep 16 2022 00:42:28 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Dogpatch Boulders,,,1
+Fri Sep 16 2022 00:53:35 GMT+0000 (GMT),0,,Flash,v3,Black,,Touchstone Dogpatch Boulders,,,1
+Sun Sep 18 2022 20:49:01 GMT+0000 (GMT),0,,Flash,v0,Pink,,Touchstone Pacific Pipe,,,1
+Sun Sep 18 2022 20:49:14 GMT+0000 (GMT),0,,Flash,v1,Pink,,Touchstone Pacific Pipe,,,1
+Sun Sep 18 2022 20:50:35 GMT+0000 (GMT),0,,Flash,v0,Orange,,Touchstone Pacific Pipe,,,1
+Sun Sep 18 2022 20:59:32 GMT+0000 (GMT),0,,Flash,v0,White,,Touchstone Pacific Pipe,,,1
+Sun Sep 18 2022 21:08:40 GMT+0000 (GMT),0,,Flash,v4,Purple,,Touchstone Pacific Pipe,,,1
+Sun Sep 18 2022 23:24:39 GMT+0000 (GMT),0,,Flash,v3,Green,,Touchstone Pacific Pipe,,,1
+Tue Sep 20 2022 14:18:38 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Pacific Pipe,,,1
+Tue Sep 20 2022 14:18:49 GMT+0000 (GMT),0,,Flash,v0,Purple,,Touchstone Pacific Pipe,,,1
+Tue Sep 20 2022 14:22:19 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Pacific Pipe,,,1
+Tue Sep 20 2022 14:25:37 GMT+0000 (GMT),0,,Flash,v2,Purple,,Touchstone Pacific Pipe,,,1
+Tue Sep 20 2022 14:28:18 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Pacific Pipe,,,1
+Fri Sep 23 2022 00:25:26 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Dogpatch Boulders,,,1
+Fri Sep 23 2022 00:25:41 GMT+0000 (GMT),0,,Flash,v0,White,,Touchstone Dogpatch Boulders,,,1
+Fri Sep 23 2022 00:29:23 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Dogpatch Boulders,,,1
+Fri Sep 23 2022 00:59:18 GMT+0000 (GMT),0,,Redpoint,v4,Purple,,Touchstone Dogpatch Boulders,,,3
+Fri Sep 23 2022 02:09:25 GMT+0000 (GMT),0,,Redpoint,v4,Green,,Touchstone Dogpatch Boulders,,,3
+Fri Sep 23 2022 02:53:57 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Touchstone Dogpatch Boulders,,,1
+Sun Sep 25 2022 17:26:32 GMT+0000 (GMT),0,,Flash,v0,Black,,Touchstone Pacific Pipe,,,1
+Sun Sep 25 2022 17:27:58 GMT+0000 (GMT),0,,Flash,v1,White,,Touchstone Pacific Pipe,,,1
+Sun Sep 25 2022 17:29:57 GMT+0000 (GMT),0,,Flash,v1,Blue,,Touchstone Pacific Pipe,,,1
+Sun Sep 25 2022 23:07:15 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Touchstone Pacific Pipe,,,5
+Tue Sep 27 2022 14:46:54 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Pacific Pipe,,,1
+Tue Sep 27 2022 14:47:37 GMT+0000 (GMT),0,,Flash,v1,Black,,Touchstone Pacific Pipe,,,1
+Tue Sep 27 2022 15:47:58 GMT+0000 (GMT),0,5,Redpoint,v3,Black,,Touchstone Pacific Pipe,,,3
+Fri Sep 30 2022 00:36:01 GMT+0000 (GMT),0,,Flash,v1,Black,,Movement Sunnyvale,,,1
+Fri Sep 30 2022 00:38:56 GMT+0000 (GMT),0,,Flash,v2,White,,Movement Sunnyvale,,,1
+Fri Sep 30 2022 00:44:30 GMT+0000 (GMT),0,,Flash,v3,Green,,Movement Sunnyvale,,,1
+Fri Sep 30 2022 02:06:59 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Movement Sunnyvale,,,1
+Fri Sep 30 2022 02:14:00 GMT+0000 (GMT),0,,Flash,v1,Green,,Movement Sunnyvale,,,1
+Fri Sep 30 2022 02:35:55 GMT+0000 (GMT),0,,Flash,v4,Black,,Movement Sunnyvale,,,1
+Fri Sep 30 2022 03:01:15 GMT+0000 (GMT),0,,Redpoint,v4,Pink,,Movement Sunnyvale,,,4
+Sun Oct 02 2022 22:03:08 GMT+0000 (GMT),0,,Flash,v2,Yellow,,Touchstone Pacific Pipe,,,1
+Sun Oct 02 2022 22:03:12 GMT+0000 (GMT),0,,Flash,v0,Orange,,Touchstone Pacific Pipe,,,1
+Thu Oct 06 2022 02:23:22 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Touchstone Dogpatch Boulders,,,1
+Thu Oct 06 2022 02:23:44 GMT+0000 (GMT),0,,Flash,v0,Black,,Touchstone Dogpatch Boulders,,,1
+Sat Oct 08 2022 01:06:21 GMT+0000 (GMT),0,,Flash,v0,Green,,Movement Santa Clara,,,1
+Sat Oct 08 2022 01:08:40 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Movement Santa Clara,,,1
+Sat Oct 08 2022 01:10:54 GMT+0000 (GMT),0,,Flash,v1,Pink,,Movement Santa Clara,,,1
+Sat Oct 08 2022 04:24:20 GMT+0000 (GMT),0,,Redpoint,v3,Purple,,Movement Santa Clara,,,2
+Sat Oct 08 2022 04:29:12 GMT+0000 (GMT),0,,Repeat,v3,Purple,,Movement Santa Clara,,,1
+Sun Oct 09 2022 20:36:43 GMT+0000 (GMT),0,,Flash,v0,Black,,Touchstone Dogpatch Boulders,,,1
+Sun Oct 09 2022 20:38:10 GMT+0000 (GMT),0,,Flash,v1,White,,Touchstone Dogpatch Boulders,,,1
+Sun Oct 09 2022 21:07:42 GMT+0000 (GMT),0,,Redpoint,v4,Green,,Touchstone Dogpatch Boulders,,,7
+Sun Oct 09 2022 21:39:26 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Dogpatch Boulders,,,1
+Sun Oct 09 2022 23:06:09 GMT+0000 (GMT),0,,Redpoint,v3,Yellow,,Touchstone Dogpatch Boulders,,,2
+Sun Oct 09 2022 23:30:32 GMT+0000 (GMT),0,,Redpoint,v3,White,,Touchstone Dogpatch Boulders,,,2
+Wed Oct 12 2022 01:06:45 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Pacific Pipe,,,1
+Wed Oct 12 2022 01:09:46 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Pacific Pipe,,,1
+Wed Oct 12 2022 02:25:19 GMT+0000 (GMT),0,,Redpoint,v4,Pink,,Touchstone Pacific Pipe,,,6
+Wed Oct 12 2022 03:57:44 GMT+0000 (GMT),0,,Repeat,v4,Pink,,Touchstone Pacific Pipe,,,1
+Fri Oct 14 2022 14:17:30 GMT+0000 (GMT),0,,Flash,v1,Black,,Touchstone Pacific Pipe,,,1
+Fri Oct 14 2022 14:19:57 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Pacific Pipe,,,1
+Fri Oct 14 2022 14:34:55 GMT+0000 (GMT),0,,Repeat,v0,Blue,,Touchstone Pacific Pipe,,,1
+Sun Oct 16 2022 21:45:05 GMT+0000 (GMT),0,,Flash,v1,Purple,,Movement Belmont,,,1
+Sun Oct 16 2022 21:46:37 GMT+0000 (GMT),0,,Flash,v1,Purple,,Movement Belmont,,,1
+Sun Oct 16 2022 22:02:58 GMT+0000 (GMT),0,,Flash,v3,Green,,Movement Belmont,,,1
+Sun Oct 16 2022 23:47:00 GMT+0000 (GMT),0,,Redpoint,v3,Orange,,Movement Belmont,,,3
+Mon Oct 17 2022 00:12:43 GMT+0000 (GMT),-1,,Flash,v3,Blue,,Movement Belmont,,,1
+Wed Oct 19 2022 00:51:48 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Dogpatch Boulders,,,1
+Wed Oct 19 2022 00:58:18 GMT+0000 (GMT),0,,Flash,v1,Pink,,Touchstone Dogpatch Boulders,,,1
+Wed Oct 19 2022 03:11:49 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Touchstone Dogpatch Boulders,,,4
+Sat Oct 22 2022 21:26:47 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Berkeley Ironworks,,,1
+Sat Oct 22 2022 21:28:40 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Berkeley Ironworks,,,1
+Sat Oct 22 2022 21:52:14 GMT+0000 (GMT),0,,Flash,v3,Pink,,Touchstone Berkeley Ironworks,,,1
+Thu Oct 27 2022 01:43:49 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone The Studio,,,1
+Thu Oct 27 2022 01:44:03 GMT+0000 (GMT),0,,Flash,v1,White,,Touchstone The Studio,,,1
+Thu Oct 27 2022 02:15:35 GMT+0000 (GMT),0,,Redpoint,v3,Orange,,Touchstone The Studio,,,3
+Thu Oct 27 2022 03:20:52 GMT+0000 (GMT),-1,5,Redpoint,v4,Black,,Touchstone The Studio,,,2
+Sat Oct 29 2022 00:23:13 GMT+0000 (GMT),0,,Flash,v0,Orange,,Benchmark Climbing SF,,,1
+Sat Oct 29 2022 00:25:28 GMT+0000 (GMT),0,,Flash,v1,Purple,,Benchmark Climbing SF,,,1
+Sat Oct 29 2022 01:24:57 GMT+0000 (GMT),0,5,Redpoint,v3,Purple,,Benchmark Climbing SF,,,2
+Sat Oct 29 2022 02:19:17 GMT+0000 (GMT),0,,Redpoint,v3,Blue,,Benchmark Climbing SF,,,2
+Tue Nov 01 2022 14:37:43 GMT+0000 (GMT),0,,Flash,vB,Orange,,Touchstone Pacific Pipe,,,1
+Tue Nov 01 2022 14:37:43 GMT+0000 (GMT),0,,Flash,v3,,,,,,1
+Tue Nov 01 2022 14:38:47 GMT+0000 (GMT),0,,Flash,v0,White,,Touchstone Pacific Pipe,,,1
+Tue Nov 01 2022 14:44:27 GMT+0000 (GMT),0,,Flash,v3,Purple,,Touchstone Pacific Pipe,,,1
+Tue Nov 01 2022 15:12:04 GMT+0000 (GMT),0,,Flash,v3,Yellow,,Touchstone Pacific Pipe,,,1
+Tue Nov 01 2022 15:34:50 GMT+0000 (GMT),0,,Flash,v3,White,,Touchstone Pacific Pipe,,,1
+Tue Nov 01 2022 15:42:47 GMT+0000 (GMT),0,,Flash,v3,Orange,,Touchstone Pacific Pipe,,,1
+Fri Nov 04 2022 00:08:53 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Mission Cliffs,,,1
+Fri Nov 04 2022 00:10:07 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Mission Cliffs,,,1
+Fri Nov 04 2022 00:12:51 GMT+0000 (GMT),0,,Flash,v1,Green,,Touchstone Mission Cliffs,,,1
+Fri Nov 04 2022 00:31:55 GMT+0000 (GMT),0,,Flash,v3,Green,,Touchstone Mission Cliffs,,,1
+Fri Nov 04 2022 01:18:21 GMT+0000 (GMT),0,5,Redpoint,v4,Yellow,,Touchstone Mission Cliffs,,,2
+Sun Nov 06 2022 18:50:20 GMT+0000 (GMT),0,,Flash,v1,Orange,,Touchstone Dogpatch Boulders,,,1
+Sun Nov 06 2022 18:50:24 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Dogpatch Boulders,,,1
+Sun Nov 06 2022 20:28:40 GMT+0000 (GMT),0,,Redpoint,v3,Blue,,Touchstone Dogpatch Boulders,,,4
+Wed Nov 09 2022 02:33:28 GMT+0000 (GMT),0,,Flash,v0,White,,Movement Belmont,,,1
+Wed Nov 09 2022 02:34:01 GMT+0000 (GMT),0,,Flash,v1,Orange,,Movement Belmont,,,1
+Wed Nov 09 2022 03:04:38 GMT+0000 (GMT),0,,Flash,v3,Green,,Movement Belmont,,,1
+Wed Nov 09 2022 03:18:12 GMT+0000 (GMT),0,,Flash,v4,Green,,Movement Belmont,,,1
+Wed Nov 09 2022 03:57:55 GMT+0000 (GMT),0,,Flash,v2,Tan,,Movement Belmont,,,1
+Wed Nov 09 2022 04:33:26 GMT+0000 (GMT),0,,Redpoint,v4,Purple,,Movement Belmont,,,4
+Wed Nov 09 2022 05:12:14 GMT+0000 (GMT),0,,Flash,v3,Green,,Movement Belmont,,,1
+Fri Nov 11 2022 02:38:04 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Movement Sunnyvale,,,1
+Fri Nov 11 2022 02:38:08 GMT+0000 (GMT),0,,Flash,v1,Orange,,Movement Sunnyvale,,,1
+Fri Nov 11 2022 02:50:22 GMT+0000 (GMT),0,,Flash,v3,Black,,Movement Sunnyvale,,,1
+Fri Nov 11 2022 03:54:39 GMT+0000 (GMT),0,,Redpoint,v4,Blue,,Movement Sunnyvale,,,5
+Fri Nov 11 2022 04:34:58 GMT+0000 (GMT),0,,Flash,v3,White,,Movement Sunnyvale,,,1
+Fri Nov 11 2022 04:51:24 GMT+0000 (GMT),0,,Repeat,v3,White,,Movement Sunnyvale,,,1
+Fri Nov 11 2022 05:22:58 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Movement Sunnyvale,,,3
+Fri Nov 11 2022 06:05:00 GMT+0000 (GMT),0,,Redpoint,v3,Orange,,Movement Sunnyvale,,,2
+Sat Nov 12 2022 17:43:37 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Dogpatch Boulders,,,1
+Sat Nov 12 2022 17:59:23 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Dogpatch Boulders,,,1
+Sat Nov 12 2022 18:16:47 GMT+0000 (GMT),0,,Redpoint,v3,White,,Touchstone Dogpatch Boulders,,,2
+Sat Nov 12 2022 18:37:15 GMT+0000 (GMT),0,,Flash,v4,Green,,Touchstone Dogpatch Boulders,,,1
+Sat Nov 12 2022 18:52:38 GMT+0000 (GMT),0,,Flash,v2,Orange,,Touchstone Dogpatch Boulders,,,1
+Sat Nov 12 2022 19:14:26 GMT+0000 (GMT),0,,Redpoint,v3,Black,,Touchstone Dogpatch Boulders,,,2
+Sun Nov 13 2022 21:41:40 GMT+0000 (GMT),0,,Flash,v1,,,,,,1
+Sun Nov 13 2022 21:41:40 GMT+0000 (GMT),0,,Flash,v1,,,,,,1
+Sun Nov 13 2022 21:41:40 GMT+0000 (GMT),0,,Flash,v1,,,,,,1
+Sun Nov 13 2022 21:41:40 GMT+0000 (GMT),0,,Flash,v3,,,,,,1
+Sun Nov 13 2022 21:41:40 GMT+0000 (GMT),0,,Flash,v3,,,,,,1
+Sun Nov 13 2022 21:41:40 GMT+0000 (GMT),0,,Flash,v1,,,,,,1
+Sun Nov 13 2022 21:41:40 GMT+0000 (GMT),0,,Flash,v3,,,,,,1
+Sun Nov 13 2022 21:41:40 GMT+0000 (GMT),0,,Flash,v3,,,,,,1
+Sun Nov 13 2022 21:41:40 GMT+0000 (GMT),0,,Flash,v3,,,,,,1
+Tue Nov 15 2022 15:50:54 GMT+0000 (GMT),0,,Flash,v0,Red,,Touchstone Berkeley Ironworks,,,1
+Tue Nov 15 2022 15:50:58 GMT+0000 (GMT),0,,Flash,v1,Yellow,,Touchstone Berkeley Ironworks,,,1
+Tue Nov 15 2022 15:52:55 GMT+0000 (GMT),0,,Flash,v2,White,,Touchstone Berkeley Ironworks,,,1
+Tue Nov 15 2022 15:59:02 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Berkeley Ironworks,,,1
+Tue Nov 15 2022 16:03:21 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Berkeley Ironworks,,,1
+Tue Nov 15 2022 16:20:52 GMT+0000 (GMT),0,,Flash,v4,Black,,Touchstone Berkeley Ironworks,,,1
+Tue Nov 15 2022 16:29:20 GMT+0000 (GMT),0,,Repeat,v4,Black,,Touchstone Berkeley Ironworks,,,1
+Tue Nov 15 2022 16:36:39 GMT+0000 (GMT),0,,Flash,v4,White,,Touchstone Berkeley Ironworks,,,1
+Tue Nov 15 2022 17:57:57 GMT+0000 (GMT),0,,Flash,v3,Green,,Touchstone Berkeley Ironworks,,,1
+Sun Nov 20 2022 00:36:39 GMT+0000 (GMT),0,,Flash,v0,,Jolly Beggar,,Jolly Beggar Boulder,United States,1
+Sun Nov 20 2022 00:36:59 GMT+0000 (GMT),0,,Flash,v1,,Totty Traverse,,Totty Boulder,United States,1
+Sun Nov 20 2022 00:37:15 GMT+0000 (GMT),0,,Flash,v0,,Totty Arete,,Totty Boulder,United States,1
+Mon Nov 21 2022 01:15:09 GMT+0000 (GMT),0,5,Flash,vB,,Low Angle Arete,,Trail Boulder,United States,1
+Mon Nov 21 2022 01:15:36 GMT+0000 (GMT),0,5,Flash,v0,,Parliament,,Funkadelia Boulder,United States,1
+Tue Nov 22 2022 05:42:52 GMT+0000 (GMT),0,,Flash,v0,,Unnamed Hero Roof Slab,,Hero Roof,United States,1
+Wed Nov 23 2022 01:08:51 GMT+0000 (GMT),0,,Redpoint,v0,,Any Which Way,,More Water Less Power Boulder,United States,2
+Wed Nov 23 2022 01:09:50 GMT+0000 (GMT),0,,Flash,vB,,Which Road,,Heavenly Path Boulder,United States,1
+Fri Nov 25 2022 21:47:07 GMT+0000 (GMT),0,,Flash,vB,Yellow,,Touchstone Pacific Pipe,,,1
+Fri Nov 25 2022 21:49:20 GMT+0000 (GMT),0,,Flash,v0,Blue,,Touchstone Pacific Pipe,,,1
+Fri Nov 25 2022 23:09:19 GMT+0000 (GMT),0,,Flash,v3,White,,Touchstone Pacific Pipe,,,1
+Fri Nov 25 2022 23:22:39 GMT+0000 (GMT),0,,Flash,v3,Blue,,Touchstone Pacific Pipe,,,1
+Sat Nov 26 2022 00:32:29 GMT+0000 (GMT),0,,Redpoint,v4,Black,,Touchstone Pacific Pipe,,,2
+Tue Nov 29 2022 15:40:15 GMT+0000 (GMT),0,,Flash,v0,Yellow,,Touchstone Pacific Pipe,,,1
+Tue Nov 29 2022 15:41:49 GMT+0000 (GMT),0,,Flash,v1,Purple,,Touchstone Pacific Pipe,,,1
+Tue Nov 29 2022 15:45:39 GMT+0000 (GMT),0,,Flash,v2,Purple,,Touchstone Pacific Pipe,,,1
+Tue Nov 29 2022 15:53:05 GMT+0000 (GMT),0,,Flash,v3,Orange,,Touchstone Pacific Pipe,,,1
+Tue Nov 29 2022 17:31:56 GMT+0000 (GMT),0,,Redpoint,v3,Pink,,Touchstone Pacific Pipe,,,2
